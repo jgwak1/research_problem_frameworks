@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T04:32:13.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5SiolaDLqVDA2ebGUwrq" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T04:34:57.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="erHzWRaz6NQY5-NiGa1b" version="16.6.4" type="github">
   <diagram id="C6ajFAXD9YbaNOLWoi_T" name="Page-1">
     <mxGraphModel dx="1888" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="YbYtTpRhRQgzlhM_GOdo-5" value="A2C: Advantage-Actor-Critic " style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
           <mxGeometry x="-100" y="320" width="250" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="YbYtTpRhRQgzlhM_GOdo-6" value="&lt;h4&gt;Features&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;&lt;div&gt;&lt;/div&gt;&lt;/h4&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Main Hyperparameters&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Original Paper:&lt;/b&gt;&lt;/div&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="YbYtTpRhRQgzlhM_GOdo-5">
+        <mxCell id="YbYtTpRhRQgzlhM_GOdo-6" value="&lt;h4&gt;Features&lt;br&gt;&lt;/h4&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;On-policy&lt;/li&gt;&lt;ul&gt;&lt;li&gt;sample-inefficient&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;div&gt;&lt;/div&gt;&lt;/h4&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Main Hyperparameters&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Original Paper:&lt;/b&gt;&lt;/div&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="YbYtTpRhRQgzlhM_GOdo-5">
           <mxGeometry x="5" y="41" width="235" height="379" as="geometry" />
         </mxCell>
         <mxCell id="YbYtTpRhRQgzlhM_GOdo-10" value="PPO: Proximal Policy Optimization" style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;startSize=23;" vertex="1" parent="1">
@@ -38,9 +38,9 @@
           <mxGeometry x="5" y="41" width="255" height="379" as="geometry" />
         </mxCell>
         <mxCell id="YbYtTpRhRQgzlhM_GOdo-16" value="TD3: Twin-Delayed DDPG" style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="760" y="320" width="270" height="430" as="geometry" />
+          <mxGeometry x="760" y="321" width="270" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="YbYtTpRhRQgzlhM_GOdo-17" value="&lt;h4&gt;Features&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Main Hyperparameters&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Original Paper:&lt;/b&gt;&lt;/div&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="YbYtTpRhRQgzlhM_GOdo-16">
+        <mxCell id="YbYtTpRhRQgzlhM_GOdo-17" value="&lt;h4&gt;Features&lt;br&gt;&lt;/h4&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Successor of DDPG&lt;/li&gt;&lt;li&gt;Using pair of critic networks&lt;/li&gt;&lt;li&gt;delayed updates of actor&lt;/li&gt;&lt;li&gt;action noise regularization&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Main Hyperparameters&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Original Paper:&lt;/b&gt;&lt;/div&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="YbYtTpRhRQgzlhM_GOdo-16">
           <mxGeometry x="5" y="41" width="255" height="379" as="geometry" />
         </mxCell>
         <mxCell id="YbYtTpRhRQgzlhM_GOdo-18" value="SAC: Soft Actor Critic " style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
@@ -86,6 +86,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="350" as="sourcePoint" />
             <mxPoint x="260" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbYtTpRhRQgzlhM_GOdo-33" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YbYtTpRhRQgzlhM_GOdo-25" target="YbYtTpRhRQgzlhM_GOdo-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
