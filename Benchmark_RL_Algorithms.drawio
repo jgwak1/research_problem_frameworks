@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T01:07:29.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="noTjNMO3ecIq68Og8VyV" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T01:07:44.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FWoBCb-kLRAG4W760WJ9" version="16.6.4" type="github">
   <diagram id="C6ajFAXD9YbaNOLWoi_T" name="Page-1">
     <mxGraphModel dx="3412" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,10 +115,16 @@
           <mxGeometry x="7" y="41" width="315" height="539" as="geometry" />
         </mxCell>
         <mxCell id="TKeSVajwGm7OFkNbOXrX-9" value="AlphaZero " style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="70" width="380" height="430" as="geometry" />
+          <mxGeometry x="2570" y="180" width="380" height="430" as="geometry" />
         </mxCell>
         <mxCell id="TKeSVajwGm7OFkNbOXrX-10" value="&lt;h4&gt;Category&lt;/h4&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Model-Based&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Off-Policy&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Online&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Motivation&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/h4&gt;&lt;h4&gt;Features&lt;/h4&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Main Hyperparameters&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/h4&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Exploration vs Exploitation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/h4&gt;&lt;h4&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400&quot;&gt;&lt;b&gt;Original Paper:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;https://arxiv.org/pdf/1801.01290.pdf&lt;br&gt;&lt;/div&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="TKeSVajwGm7OFkNbOXrX-9">
           <mxGeometry x="7" y="41" width="365" height="369" as="geometry" />
+        </mxCell>
+        <mxCell id="TKeSVajwGm7OFkNbOXrX-11" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YbYtTpRhRQgzlhM_GOdo-2" target="TKeSVajwGm7OFkNbOXrX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="400" as="sourcePoint" />
+            <mxPoint x="1120" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
