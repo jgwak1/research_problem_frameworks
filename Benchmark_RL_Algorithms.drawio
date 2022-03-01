@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T04:31:59.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Yh3c0M9hrA2C67v_69G-" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T04:34:08.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pK-oQ0LeY8jgQjvzGYpZ" version="16.6.4" type="github">
   <diagram id="C6ajFAXD9YbaNOLWoi_T" name="Page-1">
     <mxGraphModel dx="3621" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,6 +130,11 @@
             <mxPoint x="-1050" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;https://spinningup.openai.com/en/latest/&lt;/font&gt;&lt;/b&gt;" link="https://spinningup.openai.com/en/latest/" id="TKeSVajwGm7OFkNbOXrX-14">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=#FF3333;" vertex="1" parent="1">
+            <mxGeometry x="-1740" y="50" width="240" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
