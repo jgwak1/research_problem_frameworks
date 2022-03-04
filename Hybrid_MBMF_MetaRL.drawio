@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T16:36:31.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="29QPTtmdNjEcbZ_0Xqc7" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T16:45:06.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wpE3RSPxaa4VRzHo07lv" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2159" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-7" value="&lt;b&gt;Model-Free Actor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-90" y="394" width="120" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-8" value="&lt;b&gt;Model-Based Actor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-8" value="&lt;b&gt;Model-Based Actor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-10" value="&lt;b&gt;Dynamics + Reward Model&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
