@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T07:48:06.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Yj6qcHeYdsZN_OYf3EIn" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T16:36:02.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="vDOhFhCXnd4zwvgpBG00" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2331" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2159" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -80,10 +80,10 @@
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-31" value="&lt;b&gt;virtual-transition-data&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="169.5" y="490" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-32" value="&lt;br&gt;&lt;b&gt;&quot;Meta&quot; Dynamics + Reward Model&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-32" value="&lt;br&gt;&lt;b&gt;Meta Model&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="307" y="640" width="480" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-35" value="&lt;b&gt;Meta Model-Based Actor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-35" value="&lt;b&gt;Meta Actor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="810" y="650" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-37" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3kmWi4E-Ou6UmcbgvCwx-0" target="3kmWi4E-Ou6UmcbgvCwx-8" edge="1">
@@ -118,6 +118,12 @@
             <mxPoint x="800" y="130" as="sourcePoint" />
             <mxPoint x="880" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H2Ly57MOsByv2HvjXkmj-0" value="&lt;b&gt;Test MDP-2&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="102" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Ly57MOsByv2HvjXkmj-1" value="&lt;br&gt;&lt;b&gt;Meta Model&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="419" y="800" width="480" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
