@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T03:50:15.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hDwXNmOmDn1UxHvVDucL" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T04:14:43.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="a4rb-z7VryJxRUn1mU2R" version="16.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2256" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-31" value="&lt;b&gt;virtual-transition-data&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="169.5" y="490" width="137.5" height="30" as="geometry" />
+          <mxGeometry x="201.5" y="490" width="137.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-32" value="&lt;br&gt;&lt;b&gt;&lt;u&gt;Meta Model&lt;/u&gt;: Instantiate with supervised learning (but then this needs to be offline)&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="880" width="510" height="86" as="geometry" />
@@ -155,17 +155,23 @@
             <mxPoint x="-15" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-12" value="&lt;b&gt;Action - MF&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-12" value="&lt;b&gt;Action - MF ??&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-67.5" y="490" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3kmWi4E-Ou6UmcbgvCwx-10" target="3kmWi4E-Ou6UmcbgvCwx-8">
+        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0.932;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7kR-u9wCm3kEAXt-Wm9-16" target="3kmWi4E-Ou6UmcbgvCwx-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208" y="563" as="sourcePoint" />
-            <mxPoint x="305" y="461" as="targetPoint" />
+            <mxPoint x="260" y="480" as="sourcePoint" />
+            <mxPoint x="310" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-14" value="&lt;b&gt;virtual-transition-data&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="88.25" y="451" width="137.5" height="30" as="geometry" />
+        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-16" value="&lt;b&gt;Supervise (Accept or Reject)&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="48" y="430" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B7kR-u9wCm3kEAXt-Wm9-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#000000;exitX=0.932;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3kmWi4E-Ou6UmcbgvCwx-7" target="B7kR-u9wCm3kEAXt-Wm9-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="21.840000000000146" y="451.45600000000013" as="sourcePoint" />
+            <mxPoint x="169.5" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
