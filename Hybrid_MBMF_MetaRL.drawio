@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T03:48:18.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_zk6T5XiA-KJYHJuof0x" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T04:23:41.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="7A6BjG2FH4VKSMIG18Tr" version="16.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2048" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,6 +173,9 @@
             <mxPoint x="21.25" y="510" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="064HeLOUfA6zdgiV-f4--0" value="&lt;b&gt;Real-Transition-Data Replay Buffer (Will this run into memory issue? What if we dorp experience that is also utilized to improve the model quality?&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-330" y="262" width="200" height="188" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
