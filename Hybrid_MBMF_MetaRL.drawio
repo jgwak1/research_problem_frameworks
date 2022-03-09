@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T00:39:43.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UXmcae1qrKf3U8spBioY" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T00:40:29.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wVlN5Q2emFeyU6zsz7Xi" version="17.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1920" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
             <mxPoint x="170" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dkbkecR2asOSD1VpJGK2-10" value="&lt;b&gt;Compute accuracy confidence (&quot;acc_cf&quot;) and Information (&quot;info&quot;) of virtual-transition-data.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dkbkecR2asOSD1VpJGK2-10" value="&lt;b&gt;Assign accuracy confidence (&quot;acc_cf&quot;) and Information (&quot;info&quot;) of virtual-transition-data.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="590" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dkbkecR2asOSD1VpJGK2-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.987;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dkbkecR2asOSD1VpJGK2-4" target="dkbkecR2asOSD1VpJGK2-10">
