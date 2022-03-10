@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T00:29:47.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="-gCyl_ghxTQzcu62Lb70" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T01:44:45.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="2LFA0Urp8IRy6LEG6U0G" version="17.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2377" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-28" value="&lt;b&gt;Action - MB&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="166" y="341" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-31" value="&lt;b&gt;virtual-transition-data buffer&lt;br&gt;batch of (s,a,s`,r, acc_cf, info)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3kmWi4E-Ou6UmcbgvCwx-31" value="&lt;br&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Virtual-Transition-Data Buffer&lt;/font&gt;&lt;/b&gt;&lt;br&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="196.5" y="650" width="192.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-32" value="&lt;br&gt;&lt;b&gt;&lt;u&gt;Meta Model&lt;/u&gt;: Instantiate with supervised learning (but then this needs to be offline)&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -174,23 +174,8 @@
             <mxPoint x="170" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dkbkecR2asOSD1VpJGK2-4" value="&lt;b&gt;real-transition-data buffer&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-270" y="670" width="222.5" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="dkbkecR2asOSD1VpJGK2-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.987;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dkbkecR2asOSD1VpJGK2-10" target="3kmWi4E-Ou6UmcbgvCwx-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="590" as="sourcePoint" />
-            <mxPoint x="170" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dkbkecR2asOSD1VpJGK2-10" value="&lt;b&gt;Assign accuracy confidence (&quot;acc_cf&quot;) and Information (&quot;info&quot;) of virtual-transition-data.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-20" y="590" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dkbkecR2asOSD1VpJGK2-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.987;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dkbkecR2asOSD1VpJGK2-4" target="dkbkecR2asOSD1VpJGK2-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60.39249999999993" y="615" as="sourcePoint" />
-            <mxPoint x="180" y="615" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dkbkecR2asOSD1VpJGK2-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Real-Transition-Data Buffer&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-194" y="652.5" width="222.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="dkbkecR2asOSD1VpJGK2-13" value="&lt;b&gt;Model-Based Critic&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235" y="450" width="120" height="60" as="geometry" />
