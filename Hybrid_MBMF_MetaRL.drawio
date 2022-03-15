@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T03:46:16.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="USYFohxg4qmKu1-pxxxg" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T04:04:34.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UO4ONLIcL84xfyNCTsm1" version="17.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1944" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,6 +186,9 @@
             <mxPoint x="1210" y="1150" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GBIENdj6zCGluUhPFunL-0" value="perhaps using supervised learning first learn &quot;model&quot; to some extent?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="1065" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
