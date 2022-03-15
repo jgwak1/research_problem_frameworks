@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T04:06:29.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="7qoa2P1E6AtqryXNSrcq" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T19:09:18.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oybqPM3pUmyQ_ACPYMMm" version="17.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1944" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="235" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-10" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Model&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;P&lt;sub&gt;&lt;span style=&quot;font-family: &amp;#34;symbol&amp;#34; ; font-size: 13px&quot;&gt;q&lt;/span&gt;&lt;/sub&gt;(s`,r | s, a)&lt;/b&gt;&lt;/p&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="51.5" y="923" width="200" height="78" as="geometry" />
+          <mxGeometry x="20" y="923" width="200" height="78" as="geometry" />
         </mxCell>
         <mxCell id="3kmWi4E-Ou6UmcbgvCwx-12" value="&lt;b&gt;Action Selector&lt;font face=&quot;Symbol&quot;&gt;&amp;nbsp;(a)&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="250" width="153.5" height="60" as="geometry" />
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dkbkecR2asOSD1VpJGK2-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Real-Data Buffer&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-194" y="652.5" width="222.5" height="85" as="geometry" />
+          <mxGeometry x="-135.75" y="652.5" width="222.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="dkbkecR2asOSD1VpJGK2-13" value="&lt;b&gt;Model-Based Critic&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235" y="450" width="120" height="60" as="geometry" />
@@ -187,8 +187,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBIENdj6zCGluUhPFunL-0" value="perhaps using supervised learning first learn &quot;model&quot; to some extent?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GBIENdj6zCGluUhPFunL-0" value="perhaps using supervised learning first learn &quot;model&quot; to some extent?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="1065" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uGbEssyHlF9sXND5U0s-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;좀더 수학적으로 접근해야됨&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="610" width="100" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
